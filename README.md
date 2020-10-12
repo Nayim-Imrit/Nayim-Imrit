@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/Nayim-Imrit/Nayim-Imrit/blob/main/pac-man.jpg" alt="banner that shows Pacman eating Ghosts">
-I'm a web developer enthusiast who is passionate about making open-source more accessible. Some technologies I enjoy working with include ReactJS, AngularJS, Ionic (mobile development), Node.js. I recently opted to work as an Robotic Process Automation Solution Architect 🌟 based on my involvement in the tech industry.  My interests and my working environment help me diversify my learning scope.
+I'm a web developer enthusiast who is passionate about making open-source more accessible. Some technologies I enjoy working with include ReactJS, AngularJS, Ionic (mobile development), Node.js. I recently opted to work as a Robotic Process Automation Solution Architect 🌟 based on my involvement in the tech industry.  My interests and my working environment help me diversify my learning scope.
